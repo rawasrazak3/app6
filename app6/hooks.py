@@ -190,3 +190,10 @@ app_license = "MIT"
 # auth_hooks = [
 #	"app6.auth.validate"
 # ]
+fixtures = [
+    "Custom Field",
+    "Sales Invoice",
+    "Sales Order",
+    "Property Setter",
+    "DocType Layout",
+]
