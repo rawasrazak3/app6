@@ -199,12 +199,7 @@ fixtures=[
                 "in",
                 [ 
                     "Sales Invoice-set_posting_time-hidden",
-                    "Sales Invoice-set_posting_time-default",
-                    "Purchase Invoice-set_posting_time-hidden",
-                    "Purchase Invoice-set_posting_time-default",
-                    "Purchase Receipt-set_posting_time-hidden",
-                    "Purchase Receipt-set_posting_time-default",
-                    "Purchase Receipt-additional_info_section-collapsible"
+                    "Sales Invoice-set_posting_time-default"
                 ]
             ]
         ]
@@ -220,8 +215,7 @@ fixtures=[
                     "Sales Invoice-column_break_205",
                     "Sales Invoice-column_break_206",
                     "Sales Order-column_break_156",
-                    "Sales Order-column_break_157",
-                    "Purchase Order-column_break_150"
+                    "Sales Order-column_break_157"
                 ]
             ]
         ]
@@ -233,10 +227,6 @@ fixtures=[
                 "name",
                 "in",
                 [ 
-                    "Quotation",
-                    "Purchase Receipt",
-                    "Purchase Order",
-                    "Purchase Invoice",
                     "Sales Order",
                     "Sales Invoice"
                  ]
